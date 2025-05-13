@@ -1,3 +1,40 @@
+Demo of Pet_Adoption website is here 
+
+
+
+
+# 🐾 Pet Adoption Form
+
+A simple and elegant React + Tailwind CSS web app for registering pets for adoption and displaying submitted entries in a clean table format.
+
+---
+
+## 📸 Preview
+
+![App Screenshot](./src/assets/image1.png)
+
+---
+
+## 🚀 ![](<Screenshot 2025-05-13 221816.png>)Features
+
+- 🐶 Register pet name, type, breed, and owner details
+- 📋 View submitted pet entries in a styled table
+- 🎨 Beautiful, blurred glassmorphism UI with background image
+- ⚡ Powered by **React**, **Vite**, and **Tailwind CSS**
+
+---
+
+## 🛠 Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+
+---
+
+## 📂 Folder Structure
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
