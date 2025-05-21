@@ -7,7 +7,7 @@ import backgroundImage from "../assets/image.png";
 const DataPage = ({ submittedData }) => {
   return (
     <div className="bg-white/30 backdrop-blur-md rounded-lg shadow-lg p-4 m-4 border border-gray-300">
-      <h2 className="text-white text-lg font-semibold mb-2">Submitted Pets</h2>
+      <h2 className="text-white text-lg font-semibold mb-2">Submitted Pets Info</h2>
       <table className="w-full text-white text-sm">
         <thead>
           <tr>
